@@ -57,6 +57,6 @@
 
 ###
 
-<p align="left">Working on Projects with Coffee, Music and Colab crashes 🦾🤖🦾</p>
+<p align="center">Working on Projects with Coffee, Music and Colab crashes 🦾🤖🦾</p>
 
 ###

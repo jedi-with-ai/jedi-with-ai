@@ -2,17 +2,11 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://images.pexels.com/photos/2115257/pexels-photo-2115257.jpeg"  />
-</div>
-
-###
-
 <p align="left">Hey there! 👋 I'm Milan, an AI enthusiast with a heart full of curiosity and a GPU that cries regularly (Colab, we’ve all been there). I love turning complex ideas into fun, meaningful projects — whether that means simulating human cognition in language models or teaching neural networks how to predict medical outcomes with surprising accuracy.<br>🌱 Currently learning: reinforcement learning, vision transformers, and how to keep my models from hallucinating their way into philosophical debates.<br>🧠 Always open to collaboration, feedback, and meme exchanges.<br>Let’s build something cool, weird, or surprisingly useful — preferably all three.<br>“If the code works and you’re not sure why — congratulations, you’re now an AI researcher.”</p>
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
@@ -40,7 +34,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/milan-regmi-99b4b5324/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
@@ -55,6 +49,8 @@
 
 ###
 
-<img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJkMTN4bHc2d2Z6bHA3MWFjM2lyNWxqanl4ZWRqeXVqMXAyOXIyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.gif"  />
+<div align="center">
+  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJkMTN4bHc2d2Z6bHA3MWFjM2lyNWxqanl4ZWRqeXVqMXAyOXIyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.gif"  />
+</div>
 
 ###

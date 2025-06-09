@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.imgflip.com/65efzo.gif"  />
+  <img height="300" src="https://images.pexels.com/photos/17485683/pexels-photo-17485683/free-photo-of-an-artist-s-illustration-of-artificial-intelligence-ai-this-illustration-depicts-how-ai-could-be-used-in-the-field-of-sustainability-from-biodiversity-to-climate-it-was-created-by-nidi.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"  />
 </div>
 
 ###
@@ -50,11 +50,5 @@
 ###
 
 <img align="right" height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzJkMTN4bHc2d2Z6bHA3MWFjM2lyNWxqanl4ZWRqeXVqMXAyOXIyZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YnQWBOGVavTFK/giphy.gif"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/jedi-with-ai/jedi-with-ai/output/snake.svg" alt="Snake animation" />
 
 ###
